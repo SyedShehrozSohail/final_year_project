@@ -149,33 +149,6 @@ class _BookingFormState extends State<BookingForm> {
                             style: textStyle,
                           ),
                         ),
-
-//                        Expanded(
-//                            child: TextFormField(
-//                              inputFormatters: [
-//                                LengthLimitingTextInputFormatter(2),
-//                              ],
-//                              keyboardType: TextInputType.number,
-//                              controller: quantityController,
-//                              validator: (String value) {
-//                                if (value.isEmpty) {
-//                                  return 'Please enter quantity';
-//                                }
-////                                else
-////                                  return '';
-//                              },
-//                              decoration: InputDecoration(
-//                                labelText: 'Quantity',
-//                                hintText: 'Quantity in kg',
-//                                labelStyle: textStyle,
-//                                errorStyle: TextStyle(
-//                                    color: Colors.black,
-//                                    fontSize: 12.0
-//                                ),
-//                                border: OutlineInputBorder(borderRadius: BorderRadius.circular(30.0)),
-//
-//                              ),
-//                            )),
                         Container(
                           width: _minimumPadding,
                         ),
@@ -361,7 +334,6 @@ class _ComplexDateTimeFieldState extends State<ComplexDateTimeField> {
               return currentValue;
             }
           },
-          autovalidate: autoValidate,
           validator: (date) => date == null ? 'Invalid date' : null,
           initialValue: initialValue,
           onChanged: (date) => setState(() {

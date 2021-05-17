@@ -236,7 +236,6 @@ class _ComplexDateTimeFieldState extends State<ComplexDateTimeField> {
             return currentValue;
           }
         },
-        autovalidate: autoValidate,
         validator: (date) => date == null ? 'Invalid date' : null,
         initialValue: initialValue,
         onChanged: (date) => setState(() {

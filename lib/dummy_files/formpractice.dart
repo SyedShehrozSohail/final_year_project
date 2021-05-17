@@ -1,16 +1,4 @@
 import 'package:flutter/material.dart';
-//
-//void main() {
-//  runApp(MaterialApp(
-//    debugShowCheckedModeBanner: false,
-//    title: 'Simple Interest Calculator App',
-//    home: SIForm(),
-//    theme: ThemeData(
-//        brightness: Brightness.dark,
-//        primaryColor: Colors.indigo,
-//        accentColor: Colors.indigoAccent),
-//  ));
-//}
 
 class SIForm extends StatefulWidget {
   @override

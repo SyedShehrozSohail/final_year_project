@@ -147,7 +147,7 @@ packages:
       name: datetime_picker_formfield
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "2.0.0"
   dotenv:
     dependency: transitive
     description:
@@ -559,5 +559,5 @@ packages:
     source: hosted
     version: "0.1.0+1"
 sdks:
-  dart: ">=2.12.0-0.0 <3.0.0"
-  flutter: ">=1.12.13+hotfix.5"
+  dart: ">=2.12.0 <3.0.0"
+  flutter: ">=2.0.0"

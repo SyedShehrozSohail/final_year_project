@@ -5,6 +5,7 @@ class ButchersList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: RegisteredButchersList(),
       theme: new ThemeData(
         primarySwatch: Colors.red,

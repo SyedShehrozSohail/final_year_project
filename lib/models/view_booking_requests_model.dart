@@ -6,6 +6,7 @@ class BookingRequestModel extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: UserBookingRequestModel(),
       theme: new ThemeData(
         primarySwatch: Colors.red,

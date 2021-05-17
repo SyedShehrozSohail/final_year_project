@@ -35,7 +35,7 @@ dependencies:
   flutter_polyline_points: ^0.1.0
   intl: 0.17.0
 #  flutter_launch: ^0.2.0
-  datetime_picker_formfield: ^1.0.0
+  datetime_picker_formfield: ^2.0.0
   flutter_localizations:
     sdk: flutter
 dev_dependencies:
