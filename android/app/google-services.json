@@ -1,77 +1,41 @@
 {
   "project_info": {
-    "project_number": "448499030662",
-    "firebase_url": "https://mark-0001.firebaseio.com",
-    "project_id": "mark-0001",
-    "storage_bucket": "mark-0001.appspot.com"
+    "project_number": "209154371143",
+    "firebase_url": "https://mark-00001.firebaseio.com",
+    "project_id": "mark-00001",
+    "storage_bucket": "mark-00001.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:448499030662:android:adb8e27d7d6a7d8f7b8f07",
+        "mobilesdk_app_id": "1:209154371143:android:2611e338207ef9cd094b62",
         "android_client_info": {
           "package_name": "com.ssss.final_year_project"
         }
       },
       "oauth_client": [
         {
-          "client_id": "448499030662-kgmfi3kh3ibjr6fsq4ilk7msfs06ro5t.apps.googleusercontent.com",
+          "client_id": "209154371143-nmni89lls6rkclilgdg30ohfgph1heen.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBSBNd3pe_LrzcnKc8ttbvKKntvtXOWw1E"
+          "current_key": "AIzaSyDGUfOyQM-QGWinlXhURLFLho1JQpqa49A"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "448499030662-kgmfi3kh3ibjr6fsq4ilk7msfs06ro5t.apps.googleusercontent.com",
+              "client_id": "209154371143-nmni89lls6rkclilgdg30ohfgph1heen.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "448499030662-3ook2hvmb8has5rj9vba8b7k4cshbedu.apps.googleusercontent.com",
+              "client_id": "209154371143-jqr3p8q8r6fbvv92ias0qieiqel4di5u.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.ssss.fyp"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:448499030662:android:0f693b40dc7f835a7b8f07",
-        "android_client_info": {
-          "package_name": "com.ssss.fyp"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "448499030662-kgmfi3kh3ibjr6fsq4ilk7msfs06ro5t.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBSBNd3pe_LrzcnKc8ttbvKKntvtXOWw1E"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "448499030662-kgmfi3kh3ibjr6fsq4ilk7msfs06ro5t.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "448499030662-3ook2hvmb8has5rj9vba8b7k4cshbedu.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.ssss.fyp"
+                "bundle_id": "org.reactjs.native.example.FinalProject"
               }
             }
           ]

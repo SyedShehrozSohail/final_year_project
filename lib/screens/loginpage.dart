@@ -24,7 +24,6 @@ class _Login extends StatelessWidget {
       appBar: AppBar(
         title: Text('Login to my account', style: TextStyle(fontSize: 20.0),textAlign: TextAlign.center,),
       ),
-      resizeToAvoidBottomPadding: false,
       body: SingleChildScrollView(
         child: Center(
           child: Column(

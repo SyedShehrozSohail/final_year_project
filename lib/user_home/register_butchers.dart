@@ -53,8 +53,6 @@ class _ButcherRegisterFormState extends State<ButcherRegisterForm> {
   Widget build(BuildContext context) {
     TextStyle textStyle = Theme.of(context).textTheme.title;
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
-
       body: Form(
         key: _formKey,
         child: Padding(

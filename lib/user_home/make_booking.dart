@@ -73,7 +73,6 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
 //    );
 
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
       body:
 
       SingleChildScrollView(
